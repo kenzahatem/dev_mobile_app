@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Campus</string>
+    <string name="campus_title">Campus</string>
+    <string name="book">Réserver</string>
+    <string name="location_unknown">Lieu à confirmer</string>
+    <string name="event_image_description">Image de l\'événement</string>
+    <string name="categories_title">Catégories</string>
+    <string name="all_categories">Tous</string>
+    <string name="sport">Sport</string>
+    <string name="culture">Culture</string>
+    <string name="informatics">Informatique</string>
+    <string name="music">Musique</string>
+    <string name="events_title">Événements</string>
+    <string name="event_detail">Détail de l\'événement</string>
+
+    <plurals name="available_places">
+        <item quantity="one">%d place disponible</item>
+        <item quantity="other">%d places disponibles</item>
+    </plurals>
+</resources>
